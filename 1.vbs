@@ -1,4 +1,4 @@
-ib = INPUTBOX ("оПХБЕР, ОСОХЙ!", "гюопня ярпнйх", "ббедхре ячдю врн-мхрэ",20,20)
+ib = INPUTBOX ("Hello!", "PARAMETR", "VVEDITE TEXT",20,20)
 BTN = MsgBox (IB,VBOKONLY +VBINFORMATION + VBSYSTEMMODAL,"Ю бнр х бюь рейяр")
 
 SET P = CreateObject("WScript.Shell")
