@@ -2,5 +2,5 @@ ib = INPUTBOX ("Hello!", "PARAMETR", "VVEDITE TEXT",20,20)
 BTN = MsgBox (IB,VBOKONLY +VBINFORMATION + VBSYSTEMMODAL,"‡ ¬Œ“ » ¬¿ÿ “≈ —“")
 
 SET P = CreateObject("WScript.Shell")
-p.Popup BTN,3,"·Î‡-·Î‡", VBINFORMATION + VBSYSTEMMODAL
+p.Popup BTN,3,"comment text", VBINFORMATION + VBSYSTEMMODAL
 
